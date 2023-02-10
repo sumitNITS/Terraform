@@ -1,0 +1,3 @@
+Here the table configuration has been added thinking in mind similar to the way we create the table manually in AWS.
+The main section includes in the codes are: "Engine configurations (Aurora POSTGRESQL compatible configuration)", "Database configurations", "Availability and durability configuration", "Network configurations", "Deletion protection", "Authentication", "Encryption", "Snapshot configurations" etc.
+Also, Database Instance configurations in the codes I wrote it in the way that it will create One Writer Instance and One Reader Instance for the Database Cluster By default, which is editable along with all the other sections based on the specific requirements.
