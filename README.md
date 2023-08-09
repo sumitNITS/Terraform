@@ -1,1 +1,1 @@
-Terraform Scripts to Automate the Provisioning of Infrastructure.
+Terraform Scripts to Automate the Provisioning of Infrastructure
